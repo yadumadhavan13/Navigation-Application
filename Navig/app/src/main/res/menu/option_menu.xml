@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="TERRAIN"
+        android:id="@+id/optionMenuTextColor"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/subOptionNORMAL"
+                android:title="NORMAL" />
+            <item android:id="@+id/subOptionTERRAIN"
+                android:title="TERRAIN" />
+            <item android:id="@+id/subOptionSATELLITE"
+                android:title="SATELLITE" />
+        </menu>
+
+    </item>
+</menu>

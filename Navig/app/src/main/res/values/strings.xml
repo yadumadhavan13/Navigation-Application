@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Navig</string>
+    <string name="title_activity_maps">Navig</string>
+    <string name="save">save</string>
+    <string name="help">help</string>
+    <string name="show">show</string>
+</resources>
